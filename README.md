@@ -44,4 +44,4 @@ A modern, full-stack chat application built using **Kotlin**, **Jetpack Compose*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-chat-app.git
+   git clone https://github.com/spykerxx/Chat_app.git
