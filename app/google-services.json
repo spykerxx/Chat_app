@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "208598932753",
+    "project_id": "telegram-2246f",
+    "storage_bucket": "telegram-2246f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208598932753:android:cbf4f83a469787a54580b0",
+        "android_client_info": {
+          "package_name": "com.example.telegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208598932753-ps1m1e89lb6vgcis5plj4ljkfcvqga4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.telegram",
+            "certificate_hash": "db096ad154b8483228ba1012f6a30890e8976ac9"
+          }
+        },
+        {
+          "client_id": "208598932753-ron9pmrgb6ducu8olkd72irandje769c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1_p84nrHcLdWJS8XSM5L3DAa418iPru4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208598932753-ron9pmrgb6ducu8olkd72irandje769c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
